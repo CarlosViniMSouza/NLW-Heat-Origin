@@ -1,18 +1,16 @@
 const LinksSocialMedia = {
-
-  github: "birobirobiro",
-  youtube: "birobirobiro",
-  linkedin: "in/joaoinacioneto",
-  instagram: "birobirobiro",
-  twitch: "birobirobiro"
+  github: 'carlosvinimsouza',
+  youtube: '/channel/UCgpx1QW0VRCdFOCdT0XjxjA',
+  linkedin: 'in/carlosvinimsouza',
+  instagram: 'carlosvinimsouza',
+  twitch: 'chess'
 }
 
 function changeSocialMediaLinks() {
   for (let li of socialLinks.children) {
-    const social = li.getAttribute('class');
+    const social = li.getAttribute('class')
 
     li.children[0].href = `https://${social}.com/${LinksSocialMedia[social]}`
-
   }
 }
 

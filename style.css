@@ -4,10 +4,10 @@
 
 html,
 body {
-  font-family: "Roboto", sans-serif;
+  font-family: 'Roboto', sans-serif;
   -webkit-font-smoothing: antialiased;
 
-  background: url("../images/background.webp");
+  background: url('images/background.webp');
   background-color: #121214;
   background-repeat: no-repeat;
   width: 100%;
@@ -30,7 +30,7 @@ body {
 }
 
 main {
-  background-image: url("../images/badge.png");
+  background-image: url('images/badge.png');
   width: 22.375rem;
   height: 33.75rem;
   border-radius: 1rem;
@@ -55,7 +55,7 @@ main {
 }
 
 body span {
-  margin-top: -90px;
+  margin-top: -125px;
   z-index: 100;
 }
 
