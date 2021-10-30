@@ -4,7 +4,7 @@
   </h1>
 </p>
 
-![img-site](images\real_site.png)
+![img-site](https://github.com/CarlosViniMSouza/NLW-Heat-Origin/blob/main/images/real_site.png)
 
 ## 🚀 Tecnologias
 
