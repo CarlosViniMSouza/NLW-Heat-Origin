@@ -1,9 +1,10 @@
-<h1 align="center">
+<p>
+  <h1 align="center">
   Crachá Virtual DoWhile - Desktop
-</h1>
-
+  </h1>
 </p>
-<br>
+
+![img-site](images\real_site.png)
 
 ## 🚀 Tecnologias
 
